@@ -3,3 +3,7 @@
 /cifar-10-python.tar.gz
 /.ipynb_checkpoints
 /__pycache__
+/checkpoint
+/image_classification.data-00000-of-00001
+/image_classification.index
+/image_classification.meta
